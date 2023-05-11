@@ -1,4 +1,4 @@
-# Glassmorphism Creative Cloud App Redesign
+# Glassmorphism Creative Cloud Dashboard Redesign
 
 ##### Preview
 
